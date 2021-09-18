@@ -1,0 +1,32 @@
+DC|673|F2:0ES\H21|0ES Future MAR 2021 Trading Session:2||||1280|FUT||||FFIXSX||||||||||||||||||||||||9|||||||T
+DC|673|F2:0ES\Z20|0ES Future DEC 2020 Trading Session:2||||1280|FUT||||FFIXSX||||||||||||||||||||||||9|||||||A
+DC|673|F2:BIO\Z20|E-mini Nasdaq Biotechnology Index Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||DBZ0|6|342||||||||||||||||||||||||||T
+DC|673|F2:E7\H21|E-mini Euro FX Futures,Mar-2021,ETH||||1280|FUT||||FFCXSX|CME||EEH1|3|185|||||||||||||||||||9|||||||T
+DC|673|F2:E7\Z20|E-mini Euro FX Futures,Dec-2020,ETH||||1280|FUT||||FFCXSX|CME||EEZ0|3|185|||||||||||||||||||9|||||||T
+DC|673|F2:EMD\H21|E-mini S&#38;P MidCap 400 Index Futures,Mar-2021,ETH||||1280|FUT||||FFIXSX|CME||FAH1|6|342||||||||||||||||||||||||||T
+DC|673|F2:EMD\M21|E-mini S&#38;P MidCap 400 Index Futures,Jun-2021,ETH||||1280|FUT||||FFIXSX|CME||FAM1|6|342||||||||||||||||||||||||||A
+DC|673|F2:EMD\U21|E-mini S&#38;P MidCap 400 Index Futures,Sep-2021,ETH||||1280|FUT||||FFIXSX|CME||FAU1|6|342||||||||||||||||||||||||||A
+DC|673|F2:EMD\Z20|E-mini S&#38;P MidCap 400 Index Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||FAZ0|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:ES\H21|E-mini S&#38;P 500 Index Futures,Mar-2021,ETH||||1280|FUT||||FFIXSX|CME||ESH1|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:ES\M21|E-mini S&#38;P 500 Index Futures,Jun-2021,ETH||||1280|FUT||||FFIXSX|CME||ESM1|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:ES\U21|E-mini S&#38;P 500 Index Futures,Sep-2021,ETH||||1280|FUT||||FFIXSX|CME||ESU1|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:ES\Z20|E-mini S&#38;P 500 Index Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||ESZ0|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:ES\Z21|E-mini S&#38;P 500 Index Futures,Dec-2021,ETH||||1280|FUT||||FFIXSX|CME||ESZ1|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:J7\H21|E-mini Japanese Yen Futures,Mar-2021,ETH||||1280|FUT||||FFCXSX|CME||JEH1|3|185||||||||||||||||||||||||||T
+DC|673|F2:J7\Z20|E-mini Japanese Yen Futures,Dec-2020,ETH||||1280|FUT||||FFCXSX|CME||JEZ0|3|185|||||||||||||||||||9|||||||T
+DC|673|F2:NQ\H21|E-mini Nasdaq-100 Futures,Mar-2021,ETH||||1280|FUT||||FFIXSX|CME||NQH1|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:NQ\M21|E-mini Nasdaq-100 Futures,Jun-2021,ETH||||1280|FUT||||FFIXSX|CME||NQM1|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:NQ\U21|E-mini Nasdaq-100 Futures,Sep-2021,ETH||||1280|FUT||||FFIXSX|CME||NQU1|6|342||||||||||||||||||||||||||T
+DC|673|F2:NQ\Z20|E-mini Nasdaq-100 Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||NQZ0|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:NQ\Z21|E-mini Nasdaq-100 Futures,Dec-2021,ETH||||1280|FUT||||FFIXSX|CME||NQZ1|6|342||||||||||||||||||||||||||T
+DC|673|F2:XAB\H21|E-mini Materials Select Sector Futures,Mar-2021,ETH||||1280|FUT||||FFIXSX|CME||IXDH1|6|342||||||||||||||||||||||||||A
+DC|673|F2:XAB\Z20|E-mini Materials Select Sector Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||IXDZ0|6|342||||||||||||||||||||||||||T
+DC|673|F2:XAE\Z20|E-mini Energy Select Sector Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||IXPZ0|6|342||||||||||||||||||||||||||T
+DC|673|F2:XAF\Z20|E-mini Financial Select Sector Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||IXAZ0|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:XAI\Z20|E-mini Industrial Select Sector Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||IXIZ0|6|342||||||||||||||||||||||||||T
+DC|673|F2:XAK\Z20|E-mini Technology Select Sector Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||IXTZ0|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:XAK\Z21|E-mini Technology Select Sector Futures,Dec-2021,ETH||||1280|FUT||||FFIXSX|CME||IXTZ1|6|342||||||||||||||||||||||||||A
+DC|673|F2:XAP\Z20|E-mini Consumer Staples Select Sector Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||IXRZ0|6|342||||||||||||||||||||||||||T
+DC|673|F2:XAU\Z20|E-mini Utilities Select Sector Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||IXSZ0|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:XAV\Z20|E-mini Health Care Select Sector Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||IXCZ0|6|342|||||||||||||||||||9|||||||T
+DC|673|F2:XAY\Z20|E-mini Consumer Discretionary Select Sector Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CME||IXYZ0|6|342||||||||||||||||||||||||||T

@@ -1,0 +1,20 @@
+{
+  "207": [
+    "F:FDAX\\H21",
+    "F:FDAX\\Z20",
+    "F:FESX\\H21",
+    "F:FESX\\Z20",
+    "O:VOW\\A21*",
+    "O:DAI**"
+  ],
+  "673": [
+    "F2:ES*",
+    "F2:NQ*"
+  ],
+  "794": [
+    "E:ADA",
+    "E:BNPP",
+    "E:PHIAA",
+    "E:RDSAA"
+  ]
+}

@@ -1,0 +1,975 @@
+DC|367|F2:00C\F21|00C Future JAN 2021 Trading Session:2||||1280|FUT||||FCAXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:00C\G21|00C Future FEB 2021 Trading Session:2||||1280|FUT||||FCAXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:00C\H21|00C Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:00C\V20|00C Future OCT 2020 Trading Session:2||||1280|FUT||||FCAXSX||||||||||||||||||||||||9|||||||E
+DC|367|F2:00C\X20|00C Future NOV 2020 Trading Session:2||||1280|FUT||||FCAXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:00C\Z20|00C Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:00N\H21|00N Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:00N\Z20|00N Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:0EE\F21|0EE Future JAN 2021 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0EE\G21|0EE Future FEB 2021 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0EE\H21|0EE Future MAR 2021 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0EE\J21|0EE Future APR 2021 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0EE\K21|0EE Future MAY 2021 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0EE\M21|0EE Future JUN 2021 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0EE\N21|0EE Future JUL 2021 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0EE\Q21|0EE Future AUG 2021 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0EE\U21|0EE Future SEP 2021 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0EE\V20|0EE Future OCT 2020 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||E
+DC|367|F2:0EE\V21|0EE Future OCT 2021 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0EE\X20|0EE Future NOV 2020 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0EE\Z20|0EE Future DEC 2020 Trading Session:2||||1280||||||||||||||||||||||||||||||||||||T
+DC|367|F2:0YM\H21|0YM Future MAR 2021 Trading Session:2||||1280|FUT||||FFIXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:0YM\Z20|0YM Future DEC 2020 Trading Session:2||||1280|FUT||||FFIXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:0ZQ\V20|0ZQ Future OCT 2020 Trading Session:2||||1280|FUT||||FFDXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:0ZQ\X20|0ZQ Future NOV 2020 Trading Session:2||||1280|FUT||||FFDXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:0ZQ\Z20|0ZQ Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:AUW\F21|Australian Wheat FOB (Platts) Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||WFOF1|1|339||||||||||||||||||||||||||T
+DC|367|F2:AUW\G21|Australian Wheat FOB (Platts) Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|CBT||WFOG1|1|339||||||||||||||||||||||||||T
+DC|367|F2:AUW\H21|Australian Wheat FOB (Platts) Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||WFOH1|1|339||||||||||||||||||||||||||T
+DC|367|F2:AUW\J21|Australian Wheat FOB (Platts) Futures,Apr-2021,ETH||||1280|FUT||||FCAXSX|CBT||WFOJ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:AUW\K21|Australian Wheat FOB (Platts) Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||WFOK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:AUW\M21|Australian Wheat FOB (Platts) Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|CBT||WFOM1|1|339||||||||||||||||||||||||||T
+DC|367|F2:AUW\N21|Australian Wheat FOB (Platts) Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||WFON1|1|339||||||||||||||||||||||||||T
+DC|367|F2:AUW\Q21|Australian Wheat FOB (Platts) Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||WFOQ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:AUW\U20|Australian Wheat FOB (Platts) Futures,Sep-2020,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||E
+DC|367|F2:AUW\U21|Australian Wheat FOB (Platts) Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||WFOU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:AUW\V20|Australian Wheat FOB (Platts) Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX|CBT||WFOV0|1|339||||||||||||||||||||||||||T
+DC|367|F2:AUW\X20|Australian Wheat FOB (Platts) Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||WFOX0|1|339||||||||||||||||||||||||||T
+DC|367|F2:AUW\Z20|Australian Wheat FOB (Platts) Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||WFOZ0|1|339||||||||||||||||||||||||||T
+DC|367|F2:AWT\H21|BTIC on Bloomberg Commodity Index Futures,Mar-2021,ETH||||1280|FUT||||FFIXSX|CBT||BIIH1|6|342||||||||||||||||||||||||||T
+DC|367|F2:AWT\M21|BTIC on Bloomberg Commodity Index Futures,Jun-2021,ETH||||1280|FUT||||FFIXSX|CBT||BIIM1|6|342||||||||||||||||||||||||||T
+DC|367|F2:AWT\U21|BTIC on Bloomberg Commodity Index Futures,Sep-2021,ETH||||1280|FUT||||FFIXSX|CBT||BIIU1|6|342||||||||||||||||||||||||||T
+DC|367|F2:AWT\Z20|BTIC on Bloomberg Commodity Index Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CBT||BIIZ0|6|342||||||||||||||||||||||||||T
+DC|367|F2:AWT\Z21|BTIC on Bloomberg Commodity Index Futures,Dec-2021,ETH||||1280|FUT||||FFIXSX|CBT||BIIZ1|6|342||||||||||||||||||||||||||T
+DC|367|F2:AWT\Z22|BTIC on Bloomberg Commodity Index Futures,Dec-2022,ETH||||1280|FUT||||FFIXSX|CBT||BIIZ2|6|342||||||||||||||||||||||||||T
+DC|367|F2:AWT\Z23|BTIC on Bloomberg Commodity Index Futures,Dec-2023,ETH||||1280|FUT||||FFIXSX|CBT||BIIZ3|6|342||||||||||||||||||||||||||T
+DC|367|F2:AWT\Z24|BTIC on Bloomberg Commodity Index Futures,Dec-2024,ETH||||1280|FUT||||FFIXSX|CBT||BIIZ4|6|342||||||||||||||||||||||||||T
+DC|367|F2:AW\H21|Bloomberg Commodity Index Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||DNH1|6|342|||||||||||||||||||9|||||||T
+DC|367|F2:AW\M21|Bloomberg Commodity Index Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|CBT||DNM1|6|342||||||||||||||||||||||||||T
+DC|367|F2:AW\U21|Bloomberg Commodity Index Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||DNU1|6|342||||||||||||||||||||||||||T
+DC|367|F2:AW\Z20|Bloomberg Commodity Index Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||DNZ0|6|342|||||||||||||||||||9|||||||T
+DC|367|F2:AW\Z21|Bloomberg Commodity Index Futures,Dec-2021,ETH||||1280|FUT||||FCAXSX|CBT||DNZ1|6|342||||||||||||||||||||||||||T
+DC|367|F2:AW\Z22|Bloomberg Commodity Index Futures,Dec-2022,ETH||||1280|FUT||||FCAXSX|CBT||DNZ2|6|342||||||||||||||||||||||||||T
+DC|367|F2:AW\Z23|Bloomberg Commodity Index Futures,Dec-2023,ETH||||1280|FUT||||FCAXSX|CBT||DNZ3|6|342||||||||||||||||||||||||||T
+DC|367|F2:AW\Z24|Bloomberg Commodity Index Futures,Dec-2024,ETH||||1280|FUT||||FCAXSX|CBT||DNZ4|6|342||||||||||||||||||||||||||T
+DC|367|F2:B1S\H21|B1S Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:B1S\M21|B1S Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:B1S\Z20|B1S Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:B1U\H21|30-Year USD MAC Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||CBPH1|1|240||||||||||||||||||||||||||T
+DC|367|F2:B1U\Z20|30-Year USD MAC Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||CBPZ0|1|240||||||||||||||||||||||||||T
+DC|367|F2:BCF\F21|Black Sea Corn Financially Settled (Platts) Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSF1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\G21|Black Sea Corn Financially Settled (Platts) Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSG1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\H21|Black Sea Corn Financially Settled (Platts) Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSH1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\J21|Black Sea Corn Financially Settled (Platts) Futures,Apr-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSJ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\K21|Black Sea Corn Financially Settled (Platts) Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\M21|Black Sea Corn Financially Settled (Platts) Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSM1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\N21|Black Sea Corn Financially Settled (Platts) Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSN1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\Q21|Black Sea Corn Financially Settled (Platts) Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSQ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\U20|Black Sea Corn Financially Settled (Platts) Futures,Sep-2020,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||E
+DC|367|F2:BCF\U21|Black Sea Corn Financially Settled (Platts) Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\V20|Black Sea Corn Financially Settled (Platts) Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX|CBT||CBSV0|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\V21|Black Sea Corn Financially Settled (Platts) Futures,Oct-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSV1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\X20|Black Sea Corn Financially Settled (Platts) Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||CBSX0|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\X21|Black Sea Corn Financially Settled (Platts) Futures,Nov-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSX1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\Z20|Black Sea Corn Financially Settled (Platts) Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||CBSZ0|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCF\Z21|Black Sea Corn Financially Settled (Platts) Futures,Dec-2021,ETH||||1280|FUT||||FCAXSX|CBT||CBSZ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BCH\V2015|BCH Future OCT 15 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||E
+DC|367|F2:BCH\V2031|BCH Future OCT 31 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||A
+DC|367|F2:BCH\X2015|BCH Future NOV 15 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||A
+DC|367|F2:BCH\X2030|BCH Future NOV 30 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||A
+DC|367|F2:BCX\F21|BCX Future JAN 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BCX\F22|BCX Future JAN 2022 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BCX\H21|BCX Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BCX\H22|BCX Future MAR 2022 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BCX\K21|BCX Future MAY 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BCX\N21|BCX Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BCX\Q21|BCX Future AUG 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BCX\U21|BCX Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BCX\V20|BCX Future OCT 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||E
+DC|367|F2:BCX\V21|BCX Future OCT 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BCX\Z20|BCX Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BCX\Z21|BCX Future DEC 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\F21|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\G21|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\H21|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\J21|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Apr-2021,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\K21|Black Sea Sunflower Oil Financially Settled (Platts) Futures,May-2021,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\M21|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\N21|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\Q21|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\U21|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\V21|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Oct-2021,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\X20|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\X21|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Nov-2021,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BSF\Z20|Black Sea Sunflower Oil Financially Settled (Platts) Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:BWF\F21|Black Sea Wheat Financially Settled (Platts) Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSF1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BWF\G21|Black Sea Wheat Financially Settled (Platts) Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSG1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BWF\H21|Black Sea Wheat Financially Settled (Platts) Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSH1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:BWF\J21|Black Sea Wheat Financially Settled (Platts) Futures,Apr-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSJ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BWF\K21|Black Sea Wheat Financially Settled (Platts) Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BWF\M21|Black Sea Wheat Financially Settled (Platts) Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSM1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BWF\N21|Black Sea Wheat Financially Settled (Platts) Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSN1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:BWF\Q21|Black Sea Wheat Financially Settled (Platts) Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSQ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BWF\U20|Black Sea Wheat Financially Settled (Platts) Futures,Sep-2020,ETH||||1280|FUT||||FCAXSX||||||||||||||||||||||||9|||||||E
+DC|367|F2:BWF\U21|Black Sea Wheat Financially Settled (Platts) Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSU1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:BWF\V20|Black Sea Wheat Financially Settled (Platts) Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX|CBT||WBSV0|1|339||||||||||||||||||||||||||T
+DC|367|F2:BWF\V21|Black Sea Wheat Financially Settled (Platts) Futures,Oct-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSV1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BWF\X20|Black Sea Wheat Financially Settled (Platts) Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||WBSX0|1|339||||||||||||||||||||||||||T
+DC|367|F2:BWF\X21|Black Sea Wheat Financially Settled (Platts) Futures,Nov-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSX1|1|339||||||||||||||||||||||||||T
+DC|367|F2:BWF\Z20|Black Sea Wheat Financially Settled (Platts) Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||WBSZ0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:BWF\Z21|Black Sea Wheat Financially Settled (Platts) Futures,Dec-2021,ETH||||1280|FUT||||FCAXSX|CBT||WBSZ1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:BWH\V2015|BWH Future OCT 15 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||E
+DC|367|F2:BWH\V2031|BWH Future OCT 31 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||A
+DC|367|F2:BWH\X2015|BWH Future NOV 15 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||A
+DC|367|F2:BWH\X2030|BWH Future NOV 30 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||A
+DC|367|F2:C3S\H21|C3S Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:CKS\N21|CKS Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:CKW\N21|CKW Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:CKW\Z20|CKW Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:DFN\F21|DAP FOB NOLA Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFIF1|1|339||||||||||||||||||||||||||T
+DC|367|F2:DFN\G21|DAP FOB NOLA Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFIG1|1|339||||||||||||||||||||||||||T
+DC|367|F2:DFN\H21|DAP FOB NOLA Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFIH1|1|339||||||||||||||||||||||||||T
+DC|367|F2:DFN\J21|DAP FOB NOLA Futures,Apr-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFIJ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:DFN\K21|DAP FOB NOLA Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFIK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:DFN\M21|DAP FOB NOLA Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFIM1|1|339||||||||||||||||||||||||||T
+DC|367|F2:DFN\N21|DAP FOB NOLA Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFIN1|1|339||||||||||||||||||||||||||T
+DC|367|F2:DFN\Q21|DAP FOB NOLA Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFIQ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:DFN\U21|DAP FOB NOLA Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFIU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:DFN\V20|DAP FOB NOLA Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFIV0|1|339||||||||||||||||||||||||||T
+DC|367|F2:DFN\X20|DAP FOB NOLA Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFIX0|1|339||||||||||||||||||||||||||T
+DC|367|F2:DFN\Z20|DAP FOB NOLA Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFIZ0|1|339||||||||||||||||||||||||||T
+DC|367|F2:DRS\F21|Bloomberg Roll Select Commodity Index Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||DRCF1|6|342||||||||||||||||||||||||||T
+DC|367|F2:DRS\G21|Bloomberg Roll Select Commodity Index Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|CBT||DRCG1|6|342||||||||||||||||||||||||||T
+DC|367|F2:DRS\V20|Bloomberg Roll Select Commodity Index Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX|CBT||DRCV0|6|342||||||||||||||||||||||||||T
+DC|367|F2:DRS\X20|Bloomberg Roll Select Commodity Index Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||DRCX0|6|342||||||||||||||||||||||||||T
+DC|367|F2:DRS\Z20|Bloomberg Roll Select Commodity Index Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||DRCZ0|6|342||||||||||||||||||||||||||T
+DC|367|F2:DRT\F21|BTIC on Bloomberg Roll Select Commodity Index Futures,Jan-2021,ETH||||1280|FUT||||FFIXSX|CBT||BDRF1|6|342||||||||||||||||||||||||||T
+DC|367|F2:DRT\G21|BTIC on Bloomberg Roll Select Commodity Index Futures,Feb-2021,ETH||||1280|FUT||||FFIXSX|CBT||BDRG1|6|342||||||||||||||||||||||||||T
+DC|367|F2:DRT\V20|BTIC on Bloomberg Roll Select Commodity Index Futures,Oct-2020,ETH||||1280|FUT||||FFIXSX|CBT||BDRV0|6|342||||||||||||||||||||||||||T
+DC|367|F2:DRT\X20|BTIC on Bloomberg Roll Select Commodity Index Futures,Nov-2020,ETH||||1280|FUT||||FFIXSX|CBT||BDRX0|6|342||||||||||||||||||||||||||T
+DC|367|F2:DRT\Z20|BTIC on Bloomberg Roll Select Commodity Index Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CBT||BDRZ0|6|342||||||||||||||||||||||||||T
+DC|367|F2:DTR\H21|Dow Jones Industrial Average Total Return Index Futures,Mar-2021,ETH||||1280|FUT||||FFIXSX|CBT||RDRH1|6|342||||||||||||||||||||||||||T
+DC|367|F2:DTR\M21|Dow Jones Industrial Average Total Return Index Futures,Jun-2021,ETH||||1280|FUT||||FFIXSX|CBT||RDRM1|6|342||||||||||||||||||||||||||T
+DC|367|F2:DTR\U21|Dow Jones Industrial Average Total Return Index Futures,Sep-2021,ETH||||1280|FUT||||FFIXSX|CBT||RDRU1|6|342||||||||||||||||||||||||||T
+DC|367|F2:DTR\Z20|Dow Jones Industrial Average Total Return Index Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CBT||RDRZ0|6|342||||||||||||||||||||||||||T
+DC|367|F2:DTR\Z21|Dow Jones Industrial Average Total Return Index Futures,Dec-2021,ETH||||1280|FUT||||FFIXSX|CBT||RDRZ1|6|342||||||||||||||||||||||||||T
+DC|367|F2:DTT\H21|BTIC on Dow Jones Industrial Average Total Return Index Futures,Mar-2021,ETH||||1280|FUT||||FFIXSX|CBT||BTDH1|6|342||||||||||||||||||||||||||T
+DC|367|F2:DTT\M21|BTIC on Dow Jones Industrial Average Total Return Index Futures,Jun-2021,ETH||||1280|FUT||||FFIXSX|CBT||BTDM1|6|342||||||||||||||||||||||||||T
+DC|367|F2:DTT\U21|BTIC on Dow Jones Industrial Average Total Return Index Futures,Sep-2021,ETH||||1280|FUT||||FFIXSX|CBT||BTDU1|6|342||||||||||||||||||||||||||T
+DC|367|F2:DTT\Z20|BTIC on Dow Jones Industrial Average Total Return Index Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CBT||BTDZ0|6|342||||||||||||||||||||||||||T
+DC|367|F2:DTT\Z21|BTIC on Dow Jones Industrial Average Total Return Index Futures,Dec-2021,ETH||||1280|FUT||||FFIXSX|CBT||BTDZ1|6|342||||||||||||||||||||||||||T
+DC|367|F2:E1S\H21|E1S Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:E1S\M21|E1S Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:E1S\Z20|E1S Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:E1U\H21|20-Year USD MAC Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||CIPH1|1|240||||||||||||||||||||||||||T
+DC|367|F2:E1U\Z20|20-Year USD MAC Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||CIPZ0|1|240||||||||||||||||||||||||||T
+DC|367|F2:EH\F21|Ethanol Futures,Jan-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLF1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\F22|Ethanol Futures,Jan-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLF2|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\F23|Ethanol Futures,Jan-2023,ETH||||1280|FUT||||FCMXSX|CBT||DLF3|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\G21|Ethanol Futures,Feb-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLG1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\G22|Ethanol Futures,Feb-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLG2|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\G23|Ethanol Futures,Feb-2023,ETH||||1280|FUT||||FCMXSX|CBT||DLG3|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\H21|Ethanol Futures,Mar-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLH1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\H22|Ethanol Futures,Mar-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLH2|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\H23|Ethanol Futures,Mar-2023,ETH||||1280|FUT||||FCMXSX|CBT||DLH3|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\J21|Ethanol Futures,Apr-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLJ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\J22|Ethanol Futures,Apr-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLJ2|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\J23|Ethanol Futures,Apr-2023,ETH||||1280|FUT||||FCMXSX|CBT||DLJ3|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\K21|Ethanol Futures,May-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\K22|Ethanol Futures,May-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLK2|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\K23|Ethanol Futures,May-2023,ETH||||1280|FUT||||FCMXSX|CBT||DLK3|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\M21|Ethanol Futures,Jun-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLM1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\M22|Ethanol Futures,Jun-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLM2|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\M23|Ethanol Futures,Jun-2023,ETH||||1280|FUT||||FCMXSX|CBT||DLM3|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\N21|Ethanol Futures,Jul-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLN1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\N22|Ethanol Futures,Jul-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLN2|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\N23|Ethanol Futures,Jul-2023,ETH||||1280|FUT||||FCMXSX|CBT||DLN3|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\Q21|Ethanol Futures,Aug-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLQ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\Q22|Ethanol Futures,Aug-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLQ2|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\Q23|Ethanol Futures,Aug-2023,ETH||||1280|FUT||||FCMXSX|CBT||DLQ3|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\U21|Ethanol Futures,Sep-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\U22|Ethanol Futures,Sep-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLU2|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\U23|Ethanol Futures,Sep-2023,ETH||||1280|FUT||||FCMXSX|CBT||DLU3|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\V20|Ethanol Futures,Oct-2020,ETH||||1280|FUT||||FCMXSX||||||||||||||||||||||||9|||||||E
+DC|367|F2:EH\V21|Ethanol Futures,Oct-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLV1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\V22|Ethanol Futures,Oct-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLV2|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\V23|Ethanol Futures,Oct-2023,ETH||||1280|FUT||||FCMXSX|CBT||DLV3|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\X20|Ethanol Futures,Nov-2020,ETH||||1280|FUT||||FCMXSX|CBT||DLX0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:EH\X21|Ethanol Futures,Nov-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLX1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\X22|Ethanol Futures,Nov-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLX2|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\Z20|Ethanol Futures,Dec-2020,ETH||||1280|FUT||||FCMXSX|CBT||DLZ0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:EH\Z21|Ethanol Futures,Dec-2021,ETH||||1280|FUT||||FCMXSX|CBT||DLZ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:EH\Z22|Ethanol Futures,Dec-2022,ETH||||1280|FUT||||FCMXSX|CBT||DLZ2|1|339||||||||||||||||||||||||||T
+DC|367|F2:F1S\H21|F1S Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:F1S\M21|F1S Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:F1S\Z20|F1S Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:F1U\H21|5-Year USD MAC Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||CFPH1|1|240||||||||||||||||||||||||||T
+DC|367|F2:F1U\Z20|5-Year USD MAC Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||CFPZ0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:FZE\F21|Ethanol Forward Month Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEF1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\F22|Ethanol Forward Month Futures,Jan-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEF2|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\F23|Ethanol Forward Month Futures,Jan-2023,ETH||||1280|FUT||||FCAXSX|CBT||FZEF3|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\G21|Ethanol Forward Month Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEG1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\G22|Ethanol Forward Month Futures,Feb-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEG2|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\G23|Ethanol Forward Month Futures,Feb-2023,ETH||||1280|FUT||||FCAXSX|CBT||FZEG3|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\H21|Ethanol Forward Month Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEH1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\H22|Ethanol Forward Month Futures,Mar-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEH2|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\H23|Ethanol Forward Month Futures,Mar-2023,ETH||||1280|FUT||||FCAXSX|CBT||FZEH3|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\J21|Ethanol Forward Month Futures,Apr-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEJ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\J22|Ethanol Forward Month Futures,Apr-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEJ2|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\J23|Ethanol Forward Month Futures,Apr-2023,ETH||||1280|FUT||||FCAXSX|CBT||FZEJ3|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\K21|Ethanol Forward Month Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\K22|Ethanol Forward Month Futures,May-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEK2|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\K23|Ethanol Forward Month Futures,May-2023,ETH||||1280|FUT||||FCAXSX|CBT||FZEK3|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\M21|Ethanol Forward Month Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEM1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\M22|Ethanol Forward Month Futures,Jun-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEM2|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\M23|Ethanol Forward Month Futures,Jun-2023,ETH||||1280|FUT||||FCAXSX|CBT||FZEM3|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\N21|Ethanol Forward Month Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEN1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\N22|Ethanol Forward Month Futures,Jul-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEN2|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\N23|Ethanol Forward Month Futures,Jul-2023,ETH||||1280|FUT||||FCAXSX|CBT||FZEN3|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\Q21|Ethanol Forward Month Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEQ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\Q22|Ethanol Forward Month Futures,Aug-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEQ2|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\Q23|Ethanol Forward Month Futures,Aug-2023,ETH||||1280|FUT||||FCAXSX|CBT||FZEQ3|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\U21|Ethanol Forward Month Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\U22|Ethanol Forward Month Futures,Sep-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEU2|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\U23|Ethanol Forward Month Futures,Sep-2023,ETH||||1280|FUT||||FCAXSX|CBT||FZEU3|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\V20|Ethanol Forward Month Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX|CBT||FZEV0|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\V21|Ethanol Forward Month Futures,Oct-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEV1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\V22|Ethanol Forward Month Futures,Oct-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEV2|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\X20|Ethanol Forward Month Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||FZEX0|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\X21|Ethanol Forward Month Futures,Nov-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEX1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\X22|Ethanol Forward Month Futures,Nov-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEX2|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\Z20|Ethanol Forward Month Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||FZEZ0|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\Z21|Ethanol Forward Month Futures,Dec-2021,ETH||||1280|FUT||||FCAXSX|CBT||FZEZ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:FZE\Z22|Ethanol Forward Month Futures,Dec-2022,ETH||||1280|FUT||||FCAXSX|CBT||FZEZ2|1|339||||||||||||||||||||||||||T
+DC|367|F2:K6S\Z20|K6S Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:KC7\H21|KC7 Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:KC7\K21|KC7 Future MAY 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:KC7\N21|KC7 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:KC7\U21|KC7 Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:KC7\Z20|KC7 Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:KET\H21|KC HRW Wheat TAS Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||KETH1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KET\K21|KC HRW Wheat TAS Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||KETK1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KET\N21|KC HRW Wheat TAS Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||KETN1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KET\Z20|KC HRW Wheat TAS Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||KETZ0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\H21|KC HRW Wheat Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||KWH1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\H22|KC HRW Wheat Futures,Mar-2022,ETH||||1280|FUT||||FCAXSX|CBT||KWH2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\H23|KC HRW Wheat Futures,Mar-2023,ETH||||1280|FUT||||FCAXSX|CBT||KWH3|1|339||||||||||||||||||||||||||T
+DC|367|F2:KE\K21|KC HRW Wheat Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||KWK1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\K22|KC HRW Wheat Futures,May-2022,ETH||||1280|FUT||||FCAXSX|CBT||KWK2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\K23|KC HRW Wheat Futures,May-2023,ETH||||1280|FUT||||FCAXSX|CBT||KWK3|1|339||||||||||||||||||||||||||T
+DC|367|F2:KE\N21|KC HRW Wheat Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||KWN1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\N22|KC HRW Wheat Futures,Jul-2022,ETH||||1280|FUT||||FCAXSX|CBT||KWN2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\N23|KC HRW Wheat Futures,Jul-2023,ETH||||1280|FUT||||FCAXSX|CBT||KWN3|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\U21|KC HRW Wheat Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||KWU1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\U22|KC HRW Wheat Futures,Sep-2022,ETH||||1280|FUT||||FCAXSX|CBT||KWU2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\Z20|KC HRW Wheat Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||KWZ0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\Z21|KC HRW Wheat Futures,Dec-2021,ETH||||1280|FUT||||FCAXSX|CBT||KWZ1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KE\Z22|KC HRW Wheat Futures,Dec-2022,ETH||||1280|FUT||||FCAXSX|CBT||KWZ2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:KNS\N21|KNS Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:KZS\Z20|KZS Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:LIB\H14|7-year Eris Swap Futures,Mar-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\H15|7-year Eris Swap Futures,Mar-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\H16|7-year Eris Swap Futures,Mar-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\H17|7-year Eris Swap Futures,Mar-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\H18|7-year Eris Swap Futures,Mar-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIBH18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\H19|7-year Eris Swap Futures,Mar-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIBH19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\H20|7-year Eris Swap Futures,Mar-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIBH20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\H21|7-year Eris Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIBH21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\M14|7-year Eris Swap Futures,Jun-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\M15|7-year Eris Swap Futures,Jun-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\M16|7-year Eris Swap Futures,Jun-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\M17|7-year Eris Swap Futures,Jun-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\M18|7-year Eris Swap Futures,Jun-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIBM18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\M19|7-year Eris Swap Futures,Jun-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIBM19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\M20|7-year Eris Swap Futures,Jun-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIBM20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\M21|7-year Eris Swap Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIBM21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\U13|||||||||||||||||||||||||||||||||||||||||A
+DC|367|F2:LIB\U14|7-year Eris Swap Futures,Sep-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\U15|7-year Eris Swap Futures,Sep-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\U16|7-year Eris Swap Futures,Sep-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\U17|7-year Eris Swap Futures,Sep-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\U18|7-year Eris Swap Futures,Sep-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIBU18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\U19|7-year Eris Swap Futures,Sep-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIBU19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\U20|7-year Eris Swap Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIBU20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\Z13|7-year Eris Swap Futures,Dec-2013,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\Z14|7-year Eris Swap Futures,Dec-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\Z15|7-year Eris Swap Futures,Dec-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\Z16|7-year Eris Swap Futures,Dec-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\Z17|7-year Eris Swap Futures,Dec-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIB\Z18|7-year Eris Swap Futures,Dec-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIBZ18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\Z19|7-year Eris Swap Futures,Dec-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIBZ19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIB\Z20|7-year Eris Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIBZ20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\H18|3-Year Eris Swap Futures,Mar-2018,ETH||||1280|FUT||||FFDXSX|CBT||LICH18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\H19|3-Year Eris Swap Futures,Mar-2019,ETH||||1280|FUT||||FFDXSX|CBT||LICH19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\H20|3-Year Eris Swap Futures,Mar-2020,ETH||||1280|FUT||||FFDXSX|CBT||LICH20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\H21|3-Year Eris Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||LICH21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\M18|3-Year Eris Swap Futures,Jun-2018,ETH||||1280|FUT||||FFDXSX|CBT||LICM18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\M19|3-Year Eris Swap Futures,Jun-2019,ETH||||1280|FUT||||FFDXSX|CBT||LICM19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\M20|3-Year Eris Swap Futures,Jun-2020,ETH||||1280|FUT||||FFDXSX|CBT||LICM20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\M21|3-Year Eris Swap Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||LICM21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\U18|3-Year Eris Swap Futures,Sep-2018,ETH||||1280|FUT||||FFDXSX|CBT||LICU18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\U19|3-Year Eris Swap Futures,Sep-2019,ETH||||1280|FUT||||FFDXSX|CBT||LICU19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\U20|3-Year Eris Swap Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX|CBT||LICU20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\Z17|3-Year Eris Swap Futures,Dec-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIC\Z18|3-Year Eris Swap Futures,Dec-2018,ETH||||1280|FUT||||FFDXSX|CBT||LICZ18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\Z19|3-Year Eris Swap Futures,Dec-2019,ETH||||1280|FUT||||FFDXSX|CBT||LICZ19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIC\Z20|3-Year Eris Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||LICZ20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\H17|4-year Eris Swap Futures,Mar-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LID\H18|4-year Eris Swap Futures,Mar-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIDH18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\H19|4-year Eris Swap Futures,Mar-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIDH19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\H20|4-year Eris Swap Futures,Mar-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIDH20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\H21|4-year Eris Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIDH21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\M17|4-year Eris Swap Futures,Jun-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LID\M18|4-year Eris Swap Futures,Jun-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIDM18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\M19|4-year Eris Swap Futures,Jun-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIDM19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\M20|4-year Eris Swap Futures,Jun-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIDM20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\M21|4-year Eris Swap Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIDM21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\U17|4-year Eris Swap Futures,Sep-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LID\U18|4-year Eris Swap Futures,Sep-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIDU18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\U19|4-year Eris Swap Futures,Sep-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIDU19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\U20|4-year Eris Swap Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIDU20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\Z16|4-year Eris Swap Futures,Dec-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LID\Z17|4-year Eris Swap Futures,Dec-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LID\Z18|4-year Eris Swap Futures,Dec-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIDZ18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\Z19|4-year Eris Swap Futures,Dec-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIDZ19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LID\Z20|4-year Eris Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIDZ20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\H13|30-year Eris Swap Futures,Mar-2013,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\H14|30-year Eris Swap Futures,Mar-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\H15|30-year Eris Swap Futures,Mar-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\H16|30-year Eris Swap Futures,Mar-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\H17|30-year Eris Swap Futures,Mar-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\H18|30-year Eris Swap Futures,Mar-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIEH18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\H19|30-year Eris Swap Futures,Mar-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIEH19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\H20|30-year Eris Swap Futures,Mar-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIEH20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\H21|30-year Eris Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIEH21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\M13|30-year Eris Swap Futures,Jun-2013,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\M14|30-year Eris Swap Futures,Jun-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\M15|30-year Eris Swap Futures,Jun-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\M16|30-year Eris Swap Futures,Jun-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\M17|30-year Eris Swap Futures,Jun-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\M18|30-year Eris Swap Futures,Jun-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIEM18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\M19|30-year Eris Swap Futures,Jun-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIEM19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\M20|30-year Eris Swap Futures,Jun-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIEM20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\M21|30-year Eris Swap Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIEM21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\U12|30-year Eris Swap Futures,Sep-2012,ETH||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:LIE\U13|30-year Eris Swap Futures,Sep-2013,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\U14|30-year Eris Swap Futures,Sep-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\U15|30-year Eris Swap Futures,Sep-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\U16|30-year Eris Swap Futures,Sep-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\U17|30-year Eris Swap Futures,Sep-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\U18|30-year Eris Swap Futures,Sep-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIEU18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\U19|30-year Eris Swap Futures,Sep-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIEU19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\U20|30-year Eris Swap Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIEU20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\Z12|30-year Eris Swap Futures,Dec-2012,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\Z13|30-year Eris Swap Futures,Dec-2013,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\Z14|30-year Eris Swap Futures,Dec-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\Z15|30-year Eris Swap Futures,Dec-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\Z16|30-year Eris Swap Futures,Dec-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\Z17|30-year Eris Swap Futures,Dec-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIE\Z18|30-year Eris Swap Futures,Dec-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIEZ18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\Z19|30-year Eris Swap Futures,Dec-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIEZ19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIE\Z20|30-year Eris Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIEZ20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\H16|12-year Eris Swap Futures,Mar-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LII\H17|12-year Eris Swap Futures,Mar-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LII\H18|12-year Eris Swap Futures,Mar-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIIH18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\H19|12-year Eris Swap Futures,Mar-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIIH19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\H20|12-year Eris Swap Futures,Mar-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIIH20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\H21|12-year Eris Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIIH21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\M16|12-year Eris Swap Futures,Jun-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LII\M17|12-year Eris Swap Futures,Jun-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LII\M18|12-year Eris Swap Futures,Jun-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIIM18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\M19|12-year Eris Swap Futures,Jun-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIIM19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\M20|12-year Eris Swap Futures,Jun-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIIM20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\M21|12-year Eris Swap Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIIM21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\U15|12-year Eris Swap Futures,Sep-2015,ETH||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:LII\U16|12-year Eris Swap Futures,Sep-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LII\U17|12-year Eris Swap Futures,Sep-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LII\U18|12-year Eris Swap Futures,Sep-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIIU18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\U19|12-year Eris Swap Futures,Sep-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIIU19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\U20|12-year Eris Swap Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIIU20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\Z15|12-year Eris Swap Futures,Dec-2015,ETH||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:LII\Z16|12-year Eris Swap Futures,Dec-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LII\Z17|12-year Eris Swap Futures,Dec-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LII\Z18|12-year Eris Swap Futures,Dec-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIIZ18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\Z19|12-year Eris Swap Futures,Dec-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIIZ19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LII\Z20|12-year Eris Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIIZ20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\H16|15-year Eris Swap Futures,Mar-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIL\H17|15-year Eris Swap Futures,Mar-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIL\H18|15-year Eris Swap Futures,Mar-2018,ETH||||1280|FUT||||FFDXSX|CBT||LILH18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\H19|15-year Eris Swap Futures,Mar-2019,ETH||||1280|FUT||||FFDXSX|CBT||LILH19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\H20|15-year Eris Swap Futures,Mar-2020,ETH||||1280|FUT||||FFDXSX|CBT||LILH20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\H21|15-year Eris Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||LILH21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\M16|15-year Eris Swap Futures,Jun-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIL\M17|15-year Eris Swap Futures,Jun-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIL\M18|15-year Eris Swap Futures,Jun-2018,ETH||||1280|FUT||||FFDXSX|CBT||LILM18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\M19|15-year Eris Swap Futures,Jun-2019,ETH||||1280|FUT||||FFDXSX|CBT||LILM19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\M20|15-year Eris Swap Futures,Jun-2020,ETH||||1280|FUT||||FFDXSX|CBT||LILM20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\M21|15-year Eris Swap Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||LILM21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\U15|15-year Eris Swap Futures,Sep-2015,ETH||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:LIL\U16|15-year Eris Swap Futures,Sep-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIL\U17|15-year Eris Swap Futures,Sep-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIL\U18|15-year Eris Swap Futures,Sep-2018,ETH||||1280|FUT||||FFDXSX|CBT||LILU18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\U19|15-year Eris Swap Futures,Sep-2019,ETH||||1280|FUT||||FFDXSX|CBT||LILU19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\U20|15-year Eris Swap Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX|CBT||LILU20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\Z15|15-year Eris Swap Futures,Dec-2015,ETH||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:LIL\Z16|15-year Eris Swap Futures,Dec-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIL\Z17|15-year Eris Swap Futures,Dec-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIL\Z18|15-year Eris Swap Futures,Dec-2018,ETH||||1280|FUT||||FFDXSX|CBT||LILZ18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\Z19|15-year Eris Swap Futures,Dec-2019,ETH||||1280|FUT||||FFDXSX|CBT||LILZ19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIL\Z20|15-year Eris Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||LILZ20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\H16|20-year Eris Swap Futures,Mar-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIO\H17|20-year Eris Swap Futures,Mar-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIO\H18|20-year Eris Swap Futures,Mar-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIOH18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\H19|20-year Eris Swap Futures,Mar-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIOH19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\H20|20-year Eris Swap Futures,Mar-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIOH20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\H21|20-year Eris Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIOH21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\M16|20-year Eris Swap Futures,Jun-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIO\M17|20-year Eris Swap Futures,Jun-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIO\M18|20-year Eris Swap Futures,Jun-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIOM18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\M19|20-year Eris Swap Futures,Jun-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIOM19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\M20|20-year Eris Swap Futures,Jun-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIOM20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\M21|20-year Eris Swap Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIOM21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\U15|20-year Eris Swap Futures,Sep-2015,ETH||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:LIO\U16|20-year Eris Swap Futures,Sep-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIO\U17|20-year Eris Swap Futures,Sep-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIO\U18|20-year Eris Swap Futures,Sep-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIOU18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\U19|20-year Eris Swap Futures,Sep-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIOU19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\U20|20-year Eris Swap Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIOU20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\Z15|20-year Eris Swap Futures,Dec-2015,ETH||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:LIO\Z16|20-year Eris Swap Futures,Dec-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIO\Z17|20-year Eris Swap Futures,Dec-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIO\Z18|20-year Eris Swap Futures,Dec-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIOZ18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\Z19|20-year Eris Swap Futures,Dec-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIOZ19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIO\Z20|20-year Eris Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIOZ20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIT\H19|2-Year Eris Swap Futures,Mar-2019,ETH||||1280|FUT||||FFDXSX|CBT||LITH19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIT\H20|2-Year Eris Swap Futures,Mar-2020,ETH||||1280|FUT||||FFDXSX|CBT||LITH20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIT\H21|2-Year Eris Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||LITH21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIT\M19|2-Year Eris Swap Futures,Jun-2019,ETH||||1280|FUT||||FFDXSX|CBT||LITM19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIT\M20|2-Year Eris Swap Futures,Jun-2020,ETH||||1280|FUT||||FFDXSX|CBT||LITM20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIT\M21|2-Year Eris Swap Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||LITM21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIT\U19|2-Year Eris Swap Futures,Sep-2019,ETH||||1280|FUT||||FFDXSX|CBT||LITU19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIT\U20|2-Year Eris Swap Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX|CBT||LITU20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIT\Z18|2-Year Eris Swap Futures,Dec-2018,ETH||||1280|FUT||||FFDXSX|CBT||LITZ18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIT\Z19|2-Year Eris Swap Futures,Dec-2019,ETH||||1280|FUT||||FFDXSX|CBT||LITZ19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIT\Z20|2-Year Eris Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||LITZ20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\H16|5-year Eris Swap Futures,Mar-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIW\H17|5-year Eris Swap Futures,Mar-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIW\H18|5-year Eris Swap Futures,Mar-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIWH18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\H19|5-year Eris Swap Futures,Mar-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIWH19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\H20|5-year Eris Swap Futures,Mar-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIWH20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\H21|5-year Eris Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIWH21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\M16|5-year Eris Swap Futures,Jun-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIW\M17|5-year Eris Swap Futures,Jun-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIW\M18|5-year Eris Swap Futures,Jun-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIWM18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\M19|5-year Eris Swap Futures,Jun-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIWM19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\M20|5-year Eris Swap Futures,Jun-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIWM20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\M21|5-year Eris Swap Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIWM21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\U16|5-year Eris Swap Futures,Sep-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIW\U17|5-year Eris Swap Futures,Sep-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIW\U18|5-year Eris Swap Futures,Sep-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIWU18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\U19|5-year Eris Swap Futures,Sep-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIWU19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\U20|5-year Eris Swap Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIWU20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\Z15|5-year Eris Swap Futures,Dec-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIW\Z16|5-year Eris Swap Futures,Dec-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIW\Z17|5-year Eris Swap Futures,Dec-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIW\Z18|5-year Eris Swap Futures,Dec-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIWZ18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\Z19|5-year Eris Swap Futures,Dec-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIWZ19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIW\Z20|5-year Eris Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIWZ20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\H13|10-year Eris Swap Futures,Mar-2013,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\H14|10-year Eris Swap Futures,Mar-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\H15|10-year Eris Swap Futures,Mar-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\H16|10-year Eris Swap Futures,Mar-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\H17|10-year Eris Swap Futures,Mar-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\H18|10-year Eris Swap Futures,Mar-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIYH18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\H19|10-year Eris Swap Futures,Mar-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIYH19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\H20|10-year Eris Swap Futures,Mar-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIYH20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\H21|10-year Eris Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIYH21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\M13|10-year Eris Swap Futures,Jun-2013,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\M14|10-year Eris Swap Futures,Jun-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\M15|10-year Eris Swap Futures,Jun-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\M16|10-year Eris Swap Futures,Jun-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\M17|10-year Eris Swap Futures,Jun-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\M18|10-year Eris Swap Futures,Jun-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIYM18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\M19|10-year Eris Swap Futures,Jun-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIYM19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\M20|10-year Eris Swap Futures,Jun-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIYM20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\M21|10-year Eris Swap Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||LIYM21|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\U12|10-year Eris Swap Futures,Sep-2012,ETH||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:LIY\U13|10-year Eris Swap Futures,Sep-2013,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\U14|10-year Eris Swap Futures,Sep-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\U15|10-year Eris Swap Futures,Sep-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\U16|10-year Eris Swap Futures,Sep-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\U17|10-year Eris Swap Futures,Sep-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\U18|10-year Eris Swap Futures,Sep-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIYU18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\U19|10-year Eris Swap Futures,Sep-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIYU19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\U20|10-year Eris Swap Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIYU20|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\Z12|10-year Eris Swap Futures,Dec-2012,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\Z13|10-year Eris Swap Futures,Dec-2013,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\Z14|10-year Eris Swap Futures,Dec-2014,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\Z15|10-year Eris Swap Futures,Dec-2015,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\Z16|10-year Eris Swap Futures,Dec-2016,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\Z17|10-year Eris Swap Futures,Dec-2017,ETH||||1280|FUT||||FFDXSX||||0|0||||||||||||||||||||||||||T
+DC|367|F2:LIY\Z18|10-year Eris Swap Futures,Dec-2018,ETH||||1280|FUT||||FFDXSX|CBT||LIYZ18|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\Z19|10-year Eris Swap Futures,Dec-2019,ETH||||1280|FUT||||FFDXSX|CBT||LIYZ19|1|240||||||||||||||||||||||||||T
+DC|367|F2:LIY\Z20|10-year Eris Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||LIYZ20|1|240||||||||||||||||||||||||||T
+DC|367|F2:MCX\N21|MCX Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|CBT||MCRN1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MCX\U21|MCX Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|CBT||MCRU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MCX\Z20|MCX Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|CBT||MCRZ0|1|339||||||||||||||||||||||||||T
+DC|367|F2:MCX\Z21|MCX Future DEC 2021 Trading Session:2||||1280|FUT||||FCAXSX|CBT||MCRZ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\F21|MAP CFR Brazil Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFLF1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\G21|MAP CFR Brazil Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFLG1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\H21|MAP CFR Brazil Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFLH1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\J21|MAP CFR Brazil Futures,Apr-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFLJ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\K21|MAP CFR Brazil Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFLK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\M21|MAP CFR Brazil Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFLM1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\N21|MAP CFR Brazil Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFLN1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\Q21|MAP CFR Brazil Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFLQ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\U21|MAP CFR Brazil Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFLU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\V20|MAP CFR Brazil Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFLV0|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\X20|MAP CFR Brazil Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFLX0|1|339||||||||||||||||||||||||||T
+DC|367|F2:MFC\Z20|MAP CFR Brazil Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFLZ0|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\H21|Mini-Sized KC HRW Wheat Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||MKCH1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\H22|Mini-Sized KC HRW Wheat Futures,Mar-2022,ETH||||1280|FUT||||FCAXSX|CBT||MKCH2|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\H23|Mini-Sized KC HRW Wheat Futures,Mar-2023,ETH||||1280|FUT||||FCAXSX|CBT||MKCH3|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\K21|Mini-Sized KC HRW Wheat Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||MKCK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\K22|Mini-Sized KC HRW Wheat Futures,May-2022,ETH||||1280|FUT||||FCAXSX|CBT||MKCK2|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\K23|Mini-Sized KC HRW Wheat Futures,May-2023,ETH||||1280|FUT||||FCAXSX|CBT||MKCK3|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\N21|Mini-Sized KC HRW Wheat Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||MKCN1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\N22|Mini-Sized KC HRW Wheat Futures,Jul-2022,ETH||||1280|FUT||||FCAXSX|CBT||MKCN2|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\N23|Mini-Sized KC HRW Wheat Futures,Jul-2023,ETH||||1280|FUT||||FCAXSX|CBT||MKCN3|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\U21|Mini-Sized KC HRW Wheat Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||MKCU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\U22|Mini-Sized KC HRW Wheat Futures,Sep-2022,ETH||||1280|FUT||||FCAXSX|CBT||MKCU2|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\Z20|Mini-Sized KC HRW Wheat Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||MKCZ0|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\Z21|Mini-Sized KC HRW Wheat Futures,Dec-2021,ETH||||1280|FUT||||FCAXSX|CBT||MKCZ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:MKC\Z22|Mini-Sized KC HRW Wheat Futures,Dec-2022,ETH||||1280|FUT||||FCAXSX|CBT||MKCZ2|1|339||||||||||||||||||||||||||T
+DC|367|F2:MYM\H21|Micro E-mini Dow Jones Industrial Average Index Futures,Mar-2021,ETH||||1280|FUT||||FFIXSX|CBT||HWIH1|6|342|||||||||||||||||||9|||||||T
+DC|367|F2:MYM\M21|Micro E-mini Dow Jones Industrial Average Index Futures,Jun-2021,ETH||||1280|FUT||||FFIXSX|CBT||HWIM1|6|342|||||||||||||||||||9|||||||T
+DC|367|F2:MYM\U21|Micro E-mini Dow Jones Industrial Average Index Futures,Sep-2021,ETH||||1280|FUT||||FFIXSX|CBT||HWIU1|6|342||||||||||||||||||||||||||T
+DC|367|F2:MYM\Z20|Micro E-mini Dow Jones Industrial Average Index Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CBT||HWIZ0|6|342|||||||||||||||||||9|||||||T
+DC|367|F2:N1S\H21|N1S Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:N1S\M21|N1S Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:N1S\Z20|N1S Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:N1U\H21|10-Year USD MAC Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||CNPH1|1|240||||||||||||||||||||||||||T
+DC|367|F2:N1U\Z20|10-Year USD MAC Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||CNPZ0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:QC2\Z20|QC2 Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QC3\H21|QC3 Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QC3\K21|QC3 Future MAY 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QC3\N21|QC3 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QC3\U21|QC3 Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QC3\Z20|QC3 Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QC4\Q21|QC4 Future AUG 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QC6\N21|QC6 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QC7\H21|QC7 Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QC8\Z20|QC8 Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QCC\H21|QCC Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QCW\H21|QCW Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QCW\H22|QCW Future MAR 2022 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QCW\K21|QCW Future MAY 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QCW\K22|QCW Future MAY 2022 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QCW\N21|QCW Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QCW\N22|QCW Future JUL 2022 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QCW\U21|QCW Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QCW\Z20|QCW Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QCW\Z21|QCW Future DEC 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QKC\N21|QKC Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QKC\Z20|QKC Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM2\F21|QM2 Future JAN 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM2\H21|QM2 Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM2\K21|QM2 Future MAY 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM2\N21|QM2 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM2\Q21|QM2 Future AUG 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM2\U21|QM2 Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM2\V20|QM2 Future OCT 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||E
+DC|367|F2:QM2\V21|QM2 Future OCT 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM2\Z20|QM2 Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM3\Z20|QM3 Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM4\Q21|QM4 Future AUG 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM5\U21|QM5 Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QM6\N21|QM6 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO2\F21|QO2 Future JAN 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO2\H21|QO2 Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO2\K21|QO2 Future MAY 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO2\N21|QO2 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO2\Q21|QO2 Future AUG 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO2\U21|QO2 Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO2\V20|QO2 Future OCT 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||E
+DC|367|F2:QO2\V21|QO2 Future OCT 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO2\Z20|QO2 Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO3\Z20|QO3 Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO4\Q21|QO4 Future AUG 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO5\U21|QO5 Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QO6\N21|QO6 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QS0\H21|QS0 Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QS1\N21|QS1 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QS2\X20|QS2 Future NOV 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QS2\X21|QS2 Future NOV 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QS3\X20|QS3 Future NOV 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QS3\X21|QS3 Future NOV 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QS5\F21|QS5 Future JAN 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QS8\F21|QS8 Future JAN 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QS9\X20|QS9 Future NOV 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QS9\X21|QS9 Future NOV 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QW2\N21|QW2 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QW3\H21|QW3 Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QW3\K21|QW3 Future MAY 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QW3\N21|QW3 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QW3\U21|QW3 Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QW3\Z20|QW3 Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QW6\Z20|QW6 Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:QX5\H21|QX5 Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:REX\H21|Dow Jones Real Estate BTIC Futures,Mar-2021,ETH||||1280|FUT||||FFIXSX|CBT||RHSH1|6|342||||||||||||||||||||||||||T
+DC|367|F2:REX\M21|Dow Jones Real Estate BTIC Futures,Jun-2021,ETH||||1280|FUT||||FFIXSX|CBT||RHSM1|6|342||||||||||||||||||||||||||T
+DC|367|F2:REX\U21|Dow Jones Real Estate BTIC Futures,Sep-2021,ETH||||1280|FUT||||FFIXSX|CBT||RHSU1|6|342||||||||||||||||||||||||||T
+DC|367|F2:REX\Z20|Dow Jones Real Estate BTIC Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CBT||RHSZ0|6|342||||||||||||||||||||||||||T
+DC|367|F2:RX\H21|Dow Jones Real Estate Futures,Mar-2021,ETH||||1280|FUT||||FFIXSX|CBT||DJEH1|6|342||||||||||||||||||||||||||T
+DC|367|F2:RX\M21|Dow Jones Real Estate Futures,Jun-2021,ETH||||1280|FUT||||FFIXSX|CBT||DJEM1|6|342||||||||||||||||||||||||||T
+DC|367|F2:RX\U21|Dow Jones Real Estate Futures,Sep-2021,ETH||||1280|FUT||||FFIXSX|CBT||DJEU1|6|342||||||||||||||||||||||||||T
+DC|367|F2:RX\Z20|Dow Jones Real Estate Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CBT||DJEZ0|6|342|||||||||||||||||||9|||||||T
+DC|367|F2:S1S\H21|S1S Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:S1S\M21|S1S Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:S1S\Z20|S1S Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:S1U\H21|7-Year USD MAC Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||CHPH1|1|240||||||||||||||||||||||||||T
+DC|367|F2:S1U\Z20|7-Year USD MAC Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||CHPZ0|1|240||||||||||||||||||||||||||T
+DC|367|F2:S7C\K21|S7C Future MAY 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SAS\F21|SAS Future JAN 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SAS\F22|SAS Future JAN 2022 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SAS\G21|SAS Future FEB 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SAS\G22|SAS Future FEB 2022 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SAS\H21|SAS Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SAS\H22|SAS Future MAR 2022 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SAS\K21|SAS Future MAY 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SAS\N21|SAS Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SAS\Q21|SAS Future AUG 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SAS\U21|SAS Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SAS\X21|SAS Future NOV 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SBT\F21|Soybean TAS Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||SARF1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:SBT\H21|Soybean TAS Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||SARH1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:SBT\K21|Soybean TAS Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||SARK1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:SBT\N21|Soybean TAS Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||SARN1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:SBT\X20|Soybean TAS Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||SARX0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:SQ2\F21|SQ2 Future JAN 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SQ2\H21|SQ2 Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SQ2\K21|SQ2 Future MAY 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SQ2\N21|SQ2 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SQ2\Q21|SQ2 Future AUG 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SQ2\U21|SQ2 Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SQ2\X20|SQ2 Future NOV 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SQ2\X21|SQ2 Future NOV 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:SQ5\N21|SQ5 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:T1S\H21|T1S Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:T1S\M21|T1S Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:T1S\Z20|T1S Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:T1U\H21|2-Year USD MAC Swap Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||CTPH1|1|240||||||||||||||||||||||||||T
+DC|367|F2:T1U\Z20|2-Year USD MAC Swap Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||CTPZ0|1|240||||||||||||||||||||||||||T
+DC|367|F2:TN\H21|Ultra 10-Year U.S. Treasury Note Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||UXYH1|1|240||||||||||||||||||||||||||T
+DC|367|F2:TN\M21|Ultra 10-Year U.S. Treasury Note Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||UXYM1|1|240||||||||||||||||||||||||||T
+DC|367|F2:TN\Z20|Ultra 10-Year U.S. Treasury Note Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||UXYZ0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:UB\H21|Ultra U.S. Treasury Bond Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||WNH1|1|240||||||||||||||||||||||||||T
+DC|367|F2:UB\M21|Ultra U.S. Treasury Bond Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||WNM1|1|240||||||||||||||||||||||||||T
+DC|367|F2:UB\Z20|Ultra U.S. Treasury Bond Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||WNZ0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:UFB\F21|Urea (Granular) CFR Brazil Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFEF1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFB\G21|Urea (Granular) CFR Brazil Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFEG1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFB\H21|Urea (Granular) CFR Brazil Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFEH1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFB\J21|Urea (Granular) CFR Brazil Futures,Apr-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFEJ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFB\K21|Urea (Granular) CFR Brazil Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFEK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFB\M21|Urea (Granular) CFR Brazil Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFEM1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFB\N21|Urea (Granular) CFR Brazil Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFEN1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFB\Q21|Urea (Granular) CFR Brazil Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFEQ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFB\U21|Urea (Granular) CFR Brazil Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFEU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFB\V20|Urea (Granular) CFR Brazil Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFEV0|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFB\X20|Urea (Granular) CFR Brazil Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFEX0|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFB\Z20|Urea (Granular) CFR Brazil Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFEZ0|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\F21|Urea (Granular) FOB Egypt Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFDF1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\G21|Urea (Granular) FOB Egypt Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFDG1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\H21|Urea (Granular) FOB Egypt Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFDH1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\J21|Urea (Granular) FOB Egypt Futures,Apr-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFDJ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\K21|Urea (Granular) FOB Egypt Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFDK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\M21|Urea (Granular) FOB Egypt Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFDM1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\N21|Urea (Granular) FOB Egypt Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFDN1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\Q21|Urea (Granular) FOB Egypt Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFDQ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\U21|Urea (Granular) FOB Egypt Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFDU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\V20|Urea (Granular) FOB Egypt Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFDV0|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\X20|Urea (Granular) FOB Egypt Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFDX0|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFE\Z20|Urea (Granular) FOB Egypt Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFDZ0|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFV\F21|Urea (Granular) FOB US Gulf Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFCF1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFV\G21|Urea (Granular) FOB US Gulf Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFCG1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFV\H21|Urea (Granular) FOB US Gulf Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFCH1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFV\J21|Urea (Granular) FOB US Gulf Futures,Apr-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFCJ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFV\K21|Urea (Granular) FOB US Gulf Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFCK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFV\M21|Urea (Granular) FOB US Gulf Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFCM1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFV\N21|Urea (Granular) FOB US Gulf Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFCN1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFV\Q21|Urea (Granular) FOB US Gulf Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFCQ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFV\U21|Urea (Granular) FOB US Gulf Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||UFCU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFV\V20|Urea (Granular) FOB US Gulf Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFCV0|1|339||||||||||||||||||||||||||T
+DC|367|F2:UFV\X20|Urea (Granular) FOB US Gulf Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFCX0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:UFV\Z20|Urea (Granular) FOB US Gulf Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||UFCZ0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:UME\F21|Urea (Granular) FOB Middle East Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||UMPF1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UME\G21|Urea (Granular) FOB Middle East Futures,Feb-2021,ETH||||1280|FUT||||FCAXSX|CBT||UMPG1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UME\H21|Urea (Granular) FOB Middle East Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||UMPH1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UME\J21|Urea (Granular) FOB Middle East Futures,Apr-2021,ETH||||1280|FUT||||FCAXSX|CBT||UMPJ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UME\K21|Urea (Granular) FOB Middle East Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||UMPK1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UME\M21|Urea (Granular) FOB Middle East Futures,Jun-2021,ETH||||1280|FUT||||FCAXSX|CBT||UMPM1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UME\N21|Urea (Granular) FOB Middle East Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||UMPN1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UME\Q21|Urea (Granular) FOB Middle East Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||UMPQ1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UME\U21|Urea (Granular) FOB Middle East Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||UMPU1|1|339||||||||||||||||||||||||||T
+DC|367|F2:UME\V20|Urea (Granular) FOB Middle East Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX|CBT||UMPV0|1|339||||||||||||||||||||||||||T
+DC|367|F2:UME\X20|Urea (Granular) FOB Middle East Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||UMPX0|1|339||||||||||||||||||||||||||T
+DC|367|F2:UME\Z20|Urea (Granular) FOB Middle East Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||UMPZ0|1|339||||||||||||||||||||||||||T
+DC|367|F2:UNO\F21|UNO Future JAN 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:UNO\G21|UNO Future FEB 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:UNO\H21|UNO Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:UNO\J21|UNO Future APR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:UNO\K21|UNO Future MAY 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:UNO\M21|UNO Future JUN 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:UNO\N21|UNO Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:UNO\Q21|UNO Future AUG 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:UNO\U21|UNO Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:UNO\V20|UNO Future OCT 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:UNO\X20|UNO Future NOV 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:UNO\Z20|UNO Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:WMK\N21|WMK Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:WMK\U21|WMK Future SEP 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:WMK\Z20|WMK Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:WMK\Z21|WMK Future DEC 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:WQ6\N21|WQ6 Future JUL 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIA\H21|YIA Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIA\M21|YIA Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIA\Z20|YIA Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX||||||||||||||||||||||||9|||||||T
+DC|367|F2:YIB\H21|YIB Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIB\M21|YIB Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIB\Z20|YIB Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIC\H21|YIC Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIC\M21|YIC Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIC\Z20|YIC Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YID\H21|YID Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YID\M21|YID Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YID\Z20|YID Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIE\H21|YIE Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIE\M21|YIE Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIE\Z20|YIE Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YII\H21|YII Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YII\M21|YII Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YII\Z20|YII Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIL\H21|YIL Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIL\M21|YIL Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIL\Z20|YIL Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIO\H21|YIO Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIO\M21|YIO Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIO\Z20|YIO Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIT\H21|YIT Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIT\M21|YIT Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIT\Z20|YIT Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIW\H21|YIW Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIW\M21|YIW Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIW\Z20|YIW Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIY\H21|YIY Future MAR 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIY\M21|YIY Future JUN 2021 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YIY\Z20|YIY Future DEC 2020 Trading Session:2||||1280|FUT||||FFDXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:YMT\H21|BTIC E-mini DJIA Futures,Mar-2021,ETH||||1280|FUT||||FFIXSX|CBT||YMTH1|6|342||||||||||||||||||||||||||T
+DC|367|F2:YMT\M21|BTIC E-mini DJIA Futures,Jun-2021,ETH||||1280|FUT||||FFIXSX|CBT||YMTM1|6|342||||||||||||||||||||||||||T
+DC|367|F2:YMT\U21|BTIC E-mini DJIA Futures,Sep-2021,ETH||||1280|FUT||||FFIXSX|CBT||YMTU1|6|342||||||||||||||||||||||||||T
+DC|367|F2:YMT\Z20|BTIC E-mini DJIA Futures,Dec-2020,ETH||||1280|FUT||||FFIXSX|CBT||YMTZ0|6|342||||||||||||||||||||||||||T
+DC|367|F2:Z3N\H21|Three Year Treasury Note Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||3YH1|1|240||||||||||||||||||||||||||T
+DC|367|F2:Z3N\M21|Three Year Treasury Note Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||3YM1|1|240||||||||||||||||||||||||||T
+DC|367|F2:Z3N\U20|Three Year Treasury Note Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX||||||||||||||||||||||||9|||||||E
+DC|367|F2:Z3N\Z20|Three Year Treasury Note Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||3YZ0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:Z3W\H21|Z3W Future MAR 2021 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:ZB\H21|U.S. Treasury Bond Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||USH1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZB\M21|U.S. Treasury Bond Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||USM1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZB\Z20|U.S. Treasury Bond Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||USZ0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZCT\H21|Corn TAS Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||CZTH1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZCT\K21|Corn TAS Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||CZTK1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZCT\N21|Corn TAS Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||CZTN1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZCT\U21|Corn TAS Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||CZTU1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZCT\Z20|Corn TAS Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||CZTZ0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\H21|Corn Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||C H1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\H22|Corn Futures,Mar-2022,ETH||||1280|FUT||||FCAXSX|CBT||C H2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\K21|Corn Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||C K1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\K22|Corn Futures,May-2022,ETH||||1280|FUT||||FCAXSX|CBT||C K2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\N21|Corn Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||C N1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\N22|Corn Futures,Jul-2022,ETH||||1280|FUT||||FCAXSX|CBT||C N2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\N23|Corn Futures,Jul-2023,ETH||||1280|FUT||||FCAXSX|CBT||C N3|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\U21|Corn Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||C U1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\U22|Corn Futures,Sep-2022,ETH||||1280|FUT||||FCAXSX|CBT||C U2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\Z20|Corn Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||C Z0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\Z21|Corn Futures,Dec-2021,ETH||||1280|FUT||||FCAXSX|CBT||C Z1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\Z22|Corn Futures,Dec-2022,ETH||||1280|FUT||||FCAXSX|CBT||C Z2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZC\Z23|Corn Futures,Dec-2023,ETH||||1280|FUT||||FCAXSX|CBT||C Z3|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZF\H21|Five-Year US Treasury Note Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||FVH1|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZF\M21|Five-Year US Treasury Note Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||FVM1|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZF\U20|Five-Year US Treasury Note Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX||||||||||||||||||||||||9|||||||E
+DC|367|F2:ZF\Z20|Five-Year US Treasury Note Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||FVZ0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZLT\F21|Soybean Oil TAS Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||SAWF1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZLT\H21|Soybean Oil TAS Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||SAWH1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZLT\V20|Soybean Oil TAS Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX||||||||||||||||||||||||9|||||||E
+DC|367|F2:ZLT\Z20|Soybean Oil TAS Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||SAWZ0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\F21|Soybean Oil Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||BOF1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\F22|Soybean Oil Futures,Jan-2022,ETH||||1280|FUT||||FCAXSX|CBT||BOF2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\H21|Soybean Oil Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||BOH1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\H22|Soybean Oil Futures,Mar-2022,ETH||||1280|FUT||||FCAXSX|CBT||BOH2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\K21|Soybean Oil Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||BOK1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\K22|Soybean Oil Futures,May-2022,ETH||||1280|FUT||||FCAXSX|CBT||BOK2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\N21|Soybean Oil Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||BON1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\N22|Soybean Oil Futures,Jul-2022,ETH||||1280|FUT||||FCAXSX|CBT||BON2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\N23|Soybean Oil Futures,Jul-2023,ETH||||1280|FUT||||FCAXSX|CBT||BON3|1|339||||||||||||||||||||||||||T
+DC|367|F2:ZL\Q21|Soybean Oil Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||BOQ1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\Q22|Soybean Oil Futures,Aug-2022,ETH||||1280|FUT||||FCAXSX|CBT||BOQ2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\U21|Soybean Oil Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||BOU1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\U22|Soybean Oil Futures,Sep-2022,ETH||||1280|FUT||||FCAXSX|CBT||BOU2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\V20|Soybean Oil Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX||||||||||||||||||||||||9|||||||E
+DC|367|F2:ZL\V21|Soybean Oil Futures,Oct-2021,ETH||||1280|FUT||||FCAXSX|CBT||BOV1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\V22|Soybean Oil Futures,Oct-2022,ETH||||1280|FUT||||FCAXSX|CBT||BOV2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\V23|Soybean Oil Futures,Oct-2023,ETH||||1280|FUT||||FCAXSX|CBT||BOV3|1|339||||||||||||||||||||||||||T
+DC|367|F2:ZL\Z20|Soybean Oil Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||BOZ0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\Z21|Soybean Oil Futures,Dec-2021,ETH||||1280|FUT||||FCAXSX|CBT||BOZ1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\Z22|Soybean Oil Futures,Dec-2022,ETH||||1280|FUT||||FCAXSX|CBT||BOZ2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZL\Z23|Soybean Oil Futures,Dec-2023,ETH||||1280|FUT||||FCAXSX|CBT||BOZ3|1|339||||||||||||||||||||||||||T
+DC|367|F2:ZMT\F21|Soybean Meal TAS Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||SAYF1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZMT\H21|Soybean Meal TAS Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||SAYH1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZMT\V20|Soybean Meal TAS Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX||||||||||||||||||||||||9|||||||E
+DC|367|F2:ZMT\Z20|Soybean Meal TAS Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||SAYZ0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\F21|Soybean Meal Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||SMF1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\F22|Soybean Meal Futures,Jan-2022,ETH||||1280|FUT||||FCAXSX|CBT||SMF2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\H21|Soybean Meal Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||SMH1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\H22|Soybean Meal Futures,Mar-2022,ETH||||1280|FUT||||FCAXSX|CBT||SMH2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\K21|Soybean Meal Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||SMK1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\K22|Soybean Meal Futures,May-2022,ETH||||1280|FUT||||FCAXSX|CBT||SMK2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\N21|Soybean Meal Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||SMN1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\N22|Soybean Meal Futures,Jul-2022,ETH||||1280|FUT||||FCAXSX|CBT||SMN2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\N23|Soybean Meal Futures,Jul-2023,ETH||||1280|FUT||||FCAXSX|CBT||SMN3|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\Q21|Soybean Meal Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||SMQ1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\Q22|Soybean Meal Futures,Aug-2022,ETH||||1280|FUT||||FCAXSX|CBT||SMQ2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\U21|Soybean Meal Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||SMU1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\U22|Soybean Meal Futures,Sep-2022,ETH||||1280|FUT||||FCAXSX|CBT||SMU2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\V20|Soybean Meal Futures,Oct-2020,ETH||||1280|FUT||||FCAXSX||||||||||||||||||||||||9|||||||E
+DC|367|F2:ZM\V21|Soybean Meal Futures,Oct-2021,ETH||||1280|FUT||||FCAXSX|CBT||SMV1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\V22|Soybean Meal Futures,Oct-2022,ETH||||1280|FUT||||FCAXSX|CBT||SMV2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\V23|Soybean Meal Futures,Oct-2023,ETH||||1280|FUT||||FCAXSX|CBT||SMV3|1|339||||||||||||||||||||||||||T
+DC|367|F2:ZM\Z20|Soybean Meal Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||SMZ0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\Z21|Soybean Meal Futures,Dec-2021,ETH||||1280|FUT||||FCAXSX|CBT||SMZ1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\Z22|Soybean Meal Futures,Dec-2022,ETH||||1280|FUT||||FCAXSX|CBT||SMZ2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZM\Z23|Soybean Meal Futures,Dec-2023,ETH||||1280|FUT||||FCAXSX|CBT||SMZ3|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZN\H21|10-Year T-Note Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||TYH1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZN\M21|10-Year T-Note Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||TYM1|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZN\Z20|10-Year T-Note Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||TYZ0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZO\H21|Oat Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||O H1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZO\H22|Oat Futures,Mar-2022,ETH||||1280|FUT||||FCAXSX|CBT||O H2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZO\K21|Oat Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||O K1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZO\K22|Oat Futures,May-2022,ETH||||1280|FUT||||FCAXSX|CBT||O K2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZO\N21|Oat Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||O N1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZO\N22|Oat Futures,Jul-2022,ETH||||1280|FUT||||FCAXSX|CBT||O N2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZO\N23|Oat Futures,Jul-2023,ETH||||1280|FUT||||FCAXSX|CBT||O N3|1|339||||||||||||||||||||||||||T
+DC|367|F2:ZO\U21|Oat Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||O U1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZO\U22|Oat Futures,Sep-2022,ETH||||1280|FUT||||FCAXSX|CBT||O U2|1|339||||||||||||||||||||||||||T
+DC|367|F2:ZO\U23|Oat Futures,Sep-2023,ETH||||1280|FUT||||FCAXSX|CBT||O U3|1|339||||||||||||||||||||||||||T
+DC|367|F2:ZO\Z20|Oat Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||O Z0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZO\Z21|Oat Futures,Dec-2021,ETH||||1280|FUT||||FCAXSX|CBT||O Z1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\F21|Thirty-Day Fed Fund Futures,Jan-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFF1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\F22|Thirty-Day Fed Fund Futures,Jan-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFF2|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\F23|Thirty-Day Fed Fund Futures,Jan-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFF3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\F24|Thirty-Day Fed Fund Futures,Jan-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFF4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\F25|Thirty-Day Fed Fund Futures,Jan-2025,ETH||||1280|FUT||||FFDXSX|CBT||FFF5|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\G21|Thirty-Day Fed Fund Futures,Feb-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFG1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\G22|Thirty-Day Fed Fund Futures,Feb-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFG2|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\G23|Thirty-Day Fed Fund Futures,Feb-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFG3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\G24|Thirty-Day Fed Fund Futures,Feb-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFG4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\G25|Thirty-Day Fed Fund Futures,Feb-2025,ETH||||1280|FUT||||FFDXSX|CBT||FFG5|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\H21|Thirty-Day Fed Fund Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFH1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\H22|Thirty-Day Fed Fund Futures,Mar-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFH2|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\H23|Thirty-Day Fed Fund Futures,Mar-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFH3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\H24|Thirty-Day Fed Fund Futures,Mar-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFH4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\H25|Thirty-Day Fed Fund Futures,Mar-2025,ETH||||1280|FUT||||FFDXSX|CBT||FFH5|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\J21|Thirty-Day Fed Fund Futures,Apr-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFJ1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\J22|Thirty-Day Fed Fund Futures,Apr-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFJ2|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\J23|Thirty-Day Fed Fund Futures,Apr-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFJ3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\J24|Thirty-Day Fed Fund Futures,Apr-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFJ4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\J25|Thirty-Day Fed Fund Futures,Apr-2025,ETH||||1280|FUT||||FFDXSX|CBT||FFJ5|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\K21|Thirty-Day Fed Fund Futures,May-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFK1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\K22|Thirty-Day Fed Fund Futures,May-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFK2|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\K23|Thirty-Day Fed Fund Futures,May-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFK3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\K24|Thirty-Day Fed Fund Futures,May-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFK4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\K25|Thirty-Day Fed Fund Futures,May-2025,ETH||||1280|FUT||||FFDXSX|CBT||FFK5|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\M21|Thirty-Day Fed Fund Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFM1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\M22|Thirty-Day Fed Fund Futures,Jun-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFM2|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\M23|Thirty-Day Fed Fund Futures,Jun-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFM3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\M24|Thirty-Day Fed Fund Futures,Jun-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFM4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\M25|Thirty-Day Fed Fund Futures,Jun-2025,ETH||||1280|FUT||||FFDXSX|CBT||FFM5|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\N21|Thirty-Day Fed Fund Futures,Jul-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFN1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\N22|Thirty-Day Fed Fund Futures,Jul-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFN2|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\N23|Thirty-Day Fed Fund Futures,Jul-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFN3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\N24|Thirty-Day Fed Fund Futures,Jul-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFN4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\N25|Thirty-Day Fed Fund Futures,Jul-2025,ETH||||1280|FUT||||FFDXSX|CBT||FFN5|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\Q21|Thirty-Day Fed Fund Futures,Aug-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFQ1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\Q22|Thirty-Day Fed Fund Futures,Aug-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFQ2|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\Q23|Thirty-Day Fed Fund Futures,Aug-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFQ3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\Q24|Thirty-Day Fed Fund Futures,Aug-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFQ4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\Q25|Thirty-Day Fed Fund Futures,Aug-2025,ETH||||1280|FUT||||FFDXSX|CBT||FFQ5|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\U20|Thirty-Day Fed Fund Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX||||||||||||||||||||||||9|||||||E
+DC|367|F2:ZQ\U21|Thirty-Day Fed Fund Futures,Sep-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFU1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\U22|Thirty-Day Fed Fund Futures,Sep-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFU2|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\U23|Thirty-Day Fed Fund Futures,Sep-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFU3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\U24|Thirty-Day Fed Fund Futures,Sep-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFU4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\U25|Thirty-Day Fed Fund Futures,Sep-2025,ETH||||1280|FUT||||FFDXSX|CBT||FFU5|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\V20|Thirty-Day Fed Fund Futures,Oct-2020,ETH||||1280|FUT||||FFDXSX|CBT||FFV0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\V21|Thirty-Day Fed Fund Futures,Oct-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFV1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\V22|Thirty-Day Fed Fund Futures,Oct-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFV2|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\V23|Thirty-Day Fed Fund Futures,Oct-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFV3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\V24|Thirty-Day Fed Fund Futures,Oct-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFV4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\X20|Thirty-Day Fed Fund Futures,Nov-2020,ETH||||1280|FUT||||FFDXSX|CBT||FFX0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\X21|Thirty-Day Fed Fund Futures,Nov-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFX1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\X22|Thirty-Day Fed Fund Futures,Nov-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFX2|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\X23|Thirty-Day Fed Fund Futures,Nov-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFX3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\X24|Thirty-Day Fed Fund Futures,Nov-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFX4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\Z20|Thirty-Day Fed Fund Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||FFZ0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\Z21|Thirty-Day Fed Fund Futures,Dec-2021,ETH||||1280|FUT||||FFDXSX|CBT||FFZ1|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\Z22|Thirty-Day Fed Fund Futures,Dec-2022,ETH||||1280|FUT||||FFDXSX|CBT||FFZ2|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZQ\Z23|Thirty-Day Fed Fund Futures,Dec-2023,ETH||||1280|FUT||||FFDXSX|CBT||FFZ3|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZQ\Z24|Thirty-Day Fed Fund Futures,Dec-2024,ETH||||1280|FUT||||FFDXSX|CBT||FFZ4|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZR\F21|Rough Rice Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||RRF1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZR\H21|Rough Rice Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||RRH1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZR\K21|Rough Rice Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||RRK1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZR\N21|Rough Rice Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||RRN1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZR\U21|Rough Rice Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||RRU1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZR\X20|Rough Rice Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||RRX0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZR\X21|Rough Rice Futures,Nov-2021,ETH||||1280|FUT||||FCAXSX|CBT||RRX1|1|339||||||||||||||||||||||||||T
+DC|367|F2:ZS\F21|Soybean Futures,Jan-2021,ETH||||1280|FUT||||FCAXSX|CBT||S F1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\F22|Soybean Futures,Jan-2022,ETH||||1280|FUT||||FCAXSX|CBT||S F2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\H21|Soybean Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||S H1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\H22|Soybean Futures,Mar-2022,ETH||||1280|FUT||||FCAXSX|CBT||S H2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\K21|Soybean Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||S K1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\K22|Soybean Futures,May-2022,ETH||||1280|FUT||||FCAXSX|CBT||S K2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\N21|Soybean Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||S N1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\N22|Soybean Futures,Jul-2022,ETH||||1280|FUT||||FCAXSX|CBT||S N2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\N23|Soybean Futures,Jul-2023,ETH||||1280|FUT||||FCAXSX|CBT||S N3|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\Q21|Soybean Futures,Aug-2021,ETH||||1280|FUT||||FCAXSX|CBT||S Q1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\Q22|Soybean Futures,Aug-2022,ETH||||1280|FUT||||FCAXSX|CBT||S Q2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\U21|Soybean Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||S U1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\U22|Soybean Futures,Sep-2022,ETH||||1280|FUT||||FCAXSX|CBT||S U2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\X20|Soybean Futures,Nov-2020,ETH||||1280|FUT||||FCAXSX|CBT||S X0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\X21|Soybean Futures,Nov-2021,ETH||||1280|FUT||||FCAXSX|CBT||S X1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\X22|Soybean Futures,Nov-2022,ETH||||1280|FUT||||FCAXSX|CBT||S X2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZS\X23|Soybean Futures,Nov-2023,ETH||||1280|FUT||||FCAXSX|CBT||S X3|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZT\H21|2-Year T-Note Futures,Mar-2021,ETH||||1280|FUT||||FFDXSX|CBT||TUH1|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZT\M21|2-Year T-Note Futures,Jun-2021,ETH||||1280|FUT||||FFDXSX|CBT||TUM1|1|240||||||||||||||||||||||||||T
+DC|367|F2:ZT\U20|2-Year T-Note Futures,Sep-2020,ETH||||1280|FUT||||FFDXSX||||||||||||||||||||||||9|||||||E
+DC|367|F2:ZT\Z20|2-Year T-Note Futures,Dec-2020,ETH||||1280|FUT||||FFDXSX|CBT||TUZ0|1|240|||||||||||||||||||9|||||||T
+DC|367|F2:ZWC\Z20|ZWC Future DEC 2020 Trading Session:2||||1280|FUT||||FCAXSX|||||||||||||||||||||||||||||||T
+DC|367|F2:ZWT\H21|Chicago SRW Wheat TAS Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||ZTWH1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZWT\K21|Chicago SRW Wheat TAS Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||ZTWK1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZWT\N21|Chicago SRW Wheat TAS Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||ZTWN1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZWT\U21|Chicago SRW Wheat TAS Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||ZTWU1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZWT\Z20|Chicago SRW Wheat TAS Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||ZTWZ0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\H21|Chicago SRW Wheat Futures,Mar-2021,ETH||||1280|FUT||||FCAXSX|CBT||W H1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\H22|Chicago SRW Wheat Futures,Mar-2022,ETH||||1280|FUT||||FCAXSX|CBT||W H2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\H23|Chicago SRW Wheat Futures,Mar-2023,ETH||||1280|FUT||||FCAXSX|CBT||W H3|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\K21|Chicago SRW Wheat Futures,May-2021,ETH||||1280|FUT||||FCAXSX|CBT||W K1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\K22|Chicago SRW Wheat Futures,May-2022,ETH||||1280|FUT||||FCAXSX|CBT||W K2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\K23|Chicago SRW Wheat Futures,May-2023,ETH||||1280|FUT||||FCAXSX|CBT||W K3|1|339||||||||||||||||||||||||||T
+DC|367|F2:ZW\N21|Chicago SRW Wheat Futures,Jul-2021,ETH||||1280|FUT||||FCAXSX|CBT||W N1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\N22|Chicago SRW Wheat Futures,Jul-2022,ETH||||1280|FUT||||FCAXSX|CBT||W N2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\N23|Chicago SRW Wheat Futures,Jul-2023,ETH||||1280|FUT||||FCAXSX|CBT||W N3|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\U21|Chicago SRW Wheat Futures,Sep-2021,ETH||||1280|FUT||||FCAXSX|CBT||W U1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\U22|Chicago SRW Wheat Futures,Sep-2022,ETH||||1280|FUT||||FCAXSX|CBT||W U2|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\Z20|Chicago SRW Wheat Futures,Dec-2020,ETH||||1280|FUT||||FCAXSX|CBT||W Z0|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\Z21|Chicago SRW Wheat Futures,Dec-2021,ETH||||1280|FUT||||FCAXSX|CBT||W Z1|1|339|||||||||||||||||||9|||||||T
+DC|367|F2:ZW\Z22|Chicago SRW Wheat Futures,Dec-2022,ETH||||1280|FUT||||FCAXSX|CBT||W Z2|1|339|||||||||||||||||||9|||||||T
